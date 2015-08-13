@@ -14,7 +14,7 @@
 <script>
     var w=960,h=960,
             format=d3.format(',d'),
-            color=d3.scale.category20c();
+            color=d3.scale.category20();
 
     var bubble=d3.layout.pack()
             .sort(null)
@@ -34,7 +34,7 @@
                 .enter()
                 .append('g')
                 .attr('class','node')
-                .attr('transform',function(d){console.log(d);return 'translate('+ d.x+','+ d.y+')';});
+                .attr('transform',function(d){return 'translate('+ d.x+','+ d.y+')';});
 
         node.append('title')
                 .text(function(d){return d.className+":"+format(d.value)});
