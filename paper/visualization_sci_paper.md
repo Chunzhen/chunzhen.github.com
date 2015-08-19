@@ -8,36 +8,36 @@
 ##顶级期刊
 &emsp;&emsp;既然可视化（Visualization）是从计算机图形学、人机交互延伸的研究方向，我们先看看这个领域的顶级期刊
 
-- ### [IEEE Transactions on Visualization and Computer Graphics](#link1)
-- ### [Computer Graphics Forum](#link4)
-- ### [ACM Transaction on Graphics](#link6)
-- ### [International Journal of Human-Computer Studies](#link2)
-- ### [ACM Transaction on Computer-Human Interaction](#link5)
-- ### [International Journal of Human-computer in Interaction](#link3)
+- [IEEE Transactions on Visualization and Computer Graphics](#link1)
+- [Computer Graphics Forum](#link4)
+- [ACM Transaction on Graphics](#link6)
+- [International Journal of Human-Computer Studies](#link2)
+- [ACM Transaction on Computer-Human Interaction](#link5)
+- [International Journal of Human-computer in Interaction](#link3)
 
 &emsp;&emsp;对大多数好的可视化的论文都发表在IEEETransactions on Visualization and Computer Graphics和Computer Graphic Forum这两个期刊上面。当然这些期刊并不是我们可以投的，没有长期的研究根本都不可能以造论文的方式投中。但是因为上面的论文是足够优秀的，所以绝对是论文参考的好去处。
 
 ##相关期刊
 相关期刊，列表如下：
 
-- ### [Computers & Graphics-UK](#link7)
-- ### [Computer JOURNAL](#link8)
-- ### [Business & Information Systems Engineering](#link9)
-- ### [ACM Transactions on Multimedia Computing Communications and Applications](#link10)
-- ### [Computers & Geosciences](#link11)
-- ### [Journal of Visual Languages and Computing](#link12)
-- ### [The International Arab Journal of Information Technology](#link13)
-- ### [Journal of Universal Computer Science](#link14)
-- ### [Graphical Models](#link15)
-- ### [Journal of Web Engineering](#link16)
-- ### [Multimedia Tools and Applications](#link17)
+- [Computers & Graphics-UK](#link7)
+- [Computer JOURNAL](#link8)
+- [Business & Information Systems Engineering](#link9)
+- [ACM Transactions on Multimedia Computing Communications and Applications](#link10)
+- [Computers & Geosciences](#link11)
+- [Journal of Visual Languages and Computing](#link12)
+- [The International Arab Journal of Information Technology](#link13)
+- [Journal of Universal Computer Science](#link14)
+- [Graphical Models](#link15)
+- [Journal of Web Engineering](#link16)
+- #[Multimedia Tools and Applications](#link17)
 
 &emsp;&emsp;这里找到的相关期刊有计算机图形学、商业系统（考虑到华为的项目）、多媒体技术等比较泛的期刊。我感觉在这些期刊可视化只能是最终实现的系统或者成功的展示手段，不能作为论文的主体内容，即我们除了分析最后的可视化展示，还要有比如数据额挖掘、算法等才会让整个文章适用的研究范围更加的广。比如其中的一个期刊Computers & Geosciences是计算机和地球科学融合的杂志，将可视化的技术应用到其他的学科，计算机分析、可视化只是手段，这让整个论文的故事不局限于计算机领域。但是，到底选择哪个学科去交叉，这是个问题。
 
 ##目标期刊
 &emsp;&emsp;目标期刊，这里找到了Visual Computer这个期刊，这个是图形和人机交互、科学可视化方面的期刊。审稿时间比较快，一般三个月左右，录用也比较容易。真实毕业首选。衰。。。
 
-- ###[Visual Computer](#link18)
+- [Visual Computer](#link18)
 
 ## 可视化实验室(Visualization Group)
 &emsp;&emsp;而除了找期刊，最近在学习Havard CS171 Visualization课程，从中看到了Havard的Visualization Group，这让我萌生了去挖掘在可视化这个领域有哪些实验室。下面列举几个：
