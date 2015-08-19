@@ -53,9 +53,8 @@
 ###最后总结
 
 ###数据可视化 Visualization Definition
-```
-Visualization is the process that transform (abstract) data into interactive graphical representations for the purpose of exploration, confirmation, or presentation.
-```
+**Visualization is the process that transform (abstract) data into interactive graphical representations for the purpose of exploration, confirmation, or presentation.**
+
 数据可视化让我们通过丰富的图形方式来更好的交流、确定数据间的关系并探索数据间存在的更多秘密！
 
 ###参考
