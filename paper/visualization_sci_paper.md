@@ -59,11 +59,11 @@ Visualization is the process that transform (abstract) data into interactive gra
 数据可视化让我们通过丰富的图形方式来更好的交流、确定数据间的关系并探索数据间存在的更多秘密！
 
 ##参考
-###[&amp;](#link1)[IEEE Transactions on Visualization and Computer Graphics](http://emuch.net/bbs/journal.php?view=detail&jid=3442)
+###[](#link1)[IEEE Transactions on Visualization and Computer Graphics](http://emuch.net/bbs/journal.php?view=detail&jid=3442)
 点评：TVCG是可视化领域的No.1期刊。沿袭图形学的传统，每年召开的IEEE VisWeek的几个相关会议（Vis，InfoVis，VAST）的论文被直接收录进入TVCG，而这几个会议的命中率基本在20%～30%之间<br/>
 国内目前（2011年）做可视化方向，特别是信息可视化的组不是很多，能中TVCG的也算是屈指可数。不过这个方向有趋于热门的走势。 
 
-###[&amp;](#link2)[International Journal of Human-Computer Studies](http://emuch.net/bbs/journal.php?view=detail&jid=3784 )
+###[](#link2)[International Journal of Human-Computer Studies](http://emuch.net/bbs/journal.php?view=detail&jid=3784 )
 点评：很好的人机交互的杂志，审稿期3个月左右 CCF推荐人机交互A类！
 
 ###[](#link3)[International Journal of Human-computer in Interaction](http://emuch.net/bbs/journal.php?view=detail&jid=3783)
