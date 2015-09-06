@@ -1,8 +1,10 @@
 ##NeuroLines: A Subway Map Metaphor for Visualizing Nanoscale Neuronal Connectivity
-```
+
+![NeuroLines](img/NeuroLines.jpg)
+
 这篇论文主要描述了利用2D地铁图的简洁可视化模型去可视化复杂的3D神经元连接结构。使神经学家在神经元重组的过程中，有可视化的工具来辅助分析，简化工作的流程。
+
 本文主要总结论文的写作思路，至于论文的内容本身，可以参考浙江大学可视化分析小组的文章：[Neurolines:用地铁图隐喻可视化纳米级的神经连接信息](http://www.cad.zju.edu.cn/home/vagblog/?p=2590)
-```
 
 
 ###1. Introduction
