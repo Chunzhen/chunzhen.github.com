@@ -1,12 +1,12 @@
-#¿ÉÊÓ»¯ÂÛÎÄÏà¹Ø×ÊÁÏÊÕ¼¯
+##å¯è§†åŒ–è®ºæ–‡ç›¸å…³èµ„æ–™æ”¶é›†
 
-##×ÛÊö
-&emsp;&emsp;±¾´Î×ÊÁÏÊÕ¼¯¿ªÊ¼Ö÷ÒªÊÇ´ÓSCIÆÚ¿¯µÄ½Ç¶ÈÈ¥ÊÕ¼¯¿ÉÊÓ»¯Ïà¹ØµÄÆÚ¿¯£¬²¢È·¶¨¿ÉÒÔ·¢±íÂÛÎÄµÄ·½Ïò¡£µ±ÖĞ·¢ÏÖµÄ¿ÉÊÓ»¯µÄSCI×¨ÓĞÆÚ¿¯ÊÇ±È½ÏÉÙµÄ£¬´ó¸ÅÖ»ÓĞ2µÀ3¸ö£¬¶øÇÒ¶¼ÊôÓÚ¶¥¼¶µÄÆÚ¿¯¡£Í¬Ê±ÔÚÑ°ÕÒµÄ¹ı³ÌÖĞ£¬ÈÃÎÒË¼¿¼¿ÉÊÓ»¯ÔÚ¼ÆËã»úÑ§¿ÆÖĞµÄÎ»ÖÃ¡£¿ÉÊÓ»¯²¢²»ÊôÓÚ´«Í³µÄ¼ÆËã»úÑĞ¾¿·ÖÖ§¡£ÆäÓ¦¸ÃÊÇÔÚ¼ÆËã»úÍ¼ĞÎÑ§¡¢ÈË»ú½»»¥µÈ½ÏÎª´«Í³µÄÑĞ¾¿·ÖÖ§ÖĞÑİ»¯¶øÀ´µÄ¡£ÒòÎªËæ×Å¼ÆËã»ú´æ´¢ºÍ¼ÆËãÄÜÁ¦µÄÌáÉı£¬ÎÒÃÇÓµÓĞ¸ü´óÁ¿¡¢¸ü¶àÎ¬¶È£¬Ò²¾ÍÊÇ¸ü¼Ó¸´ÔÓµÄÊı¾İĞèÒªÎÒÃÇÈ¥·ÖÎö¡£¶øÈçºÎÍ¨¹ıÒ»¸öÓĞĞ§µÄÍ¼ĞÎÈ¥±íÊ¾ºÍ·ÖÎöÕâĞ©Êı¾İ£¬ÊÇÒ»¸öÖµµÃÑĞ¾¿µÄ¿ÎÌâ£»Í¬Ê±£¬Ëæ×ÅÈËÃÇ¶ÔÊı¾İÔ½À´Ô½ÖØÊÓ£¬Êı¾İ¿ÉÊÓ»¯Ò²Ô½À´Ô½ÊÜÈË¹Ø×¢¡£±¾´ÎÊÕ¼¯µÄ×ÊÁÏÖ÷ÒªÊÇÆÚ¿¯£¬ÒÔÖ®Ïà¶ÔµÄÊÇ»áÒé²¢Ã»ÓĞÊÕ¼¯¡£µ«ÔÚÊÕ¼¯µÄ¹ı³ÌÖĞÒ²¿ÉÒÔ¿´µ½ÂÛÎÄµÄ³ö´¦¾ø¶Ô»á±ÈÆÚ¿¯Òª¶àµÃ¶à¡£±ÈÈçIEEE VisÕâÀà¶¥¼¶»áÒé£¬ËûÃÇµÄÂÛÎÄÊÇÖ±½ÓºÍÆÚ¿¯¶Ô½ÓµÄ¡£
+###ç»¼è¿°
+&emsp;&emsp;æœ¬æ¬¡èµ„æ–™æ”¶é›†å¼€å§‹ä¸»è¦æ˜¯ä»SCIæœŸåˆŠçš„è§’åº¦å»æ”¶é›†å¯è§†åŒ–ç›¸å…³çš„æœŸåˆŠï¼Œå¹¶ç¡®å®šå¯ä»¥å‘è¡¨è®ºæ–‡çš„æ–¹å‘ã€‚å½“ä¸­å‘ç°çš„å¯è§†åŒ–çš„SCIä¸“æœ‰æœŸåˆŠæ˜¯æ¯”è¾ƒå°‘çš„ï¼Œå¤§æ¦‚åªæœ‰2é“3ä¸ªï¼Œè€Œä¸”éƒ½å±äºé¡¶çº§çš„æœŸåˆŠã€‚åŒæ—¶åœ¨å¯»æ‰¾çš„è¿‡ç¨‹ä¸­ï¼Œè®©æˆ‘æ€è€ƒå¯è§†åŒ–åœ¨è®¡ç®—æœºå­¦ç§‘ä¸­çš„ä½ç½®ã€‚å¯è§†åŒ–å¹¶ä¸å±äºä¼ ç»Ÿçš„è®¡ç®—æœºç ”ç©¶åˆ†æ”¯ã€‚å…¶åº”è¯¥æ˜¯åœ¨è®¡ç®—æœºå›¾å½¢å­¦ã€äººæœºäº¤äº’ç­‰è¾ƒä¸ºä¼ ç»Ÿçš„ç ”ç©¶åˆ†æ”¯ä¸­æ¼”åŒ–è€Œæ¥çš„ã€‚å› ä¸ºéšç€è®¡ç®—æœºå­˜å‚¨å’Œè®¡ç®—èƒ½åŠ›çš„æå‡ï¼Œæˆ‘ä»¬æ‹¥æœ‰æ›´å¤§é‡ã€æ›´å¤šç»´åº¦ï¼Œä¹Ÿå°±æ˜¯æ›´åŠ å¤æ‚çš„æ•°æ®éœ€è¦æˆ‘ä»¬å»åˆ†æã€‚è€Œå¦‚ä½•é€šè¿‡ä¸€ä¸ªæœ‰æ•ˆçš„å›¾å½¢å»è¡¨ç¤ºå’Œåˆ†æè¿™äº›æ•°æ®ï¼Œæ˜¯ä¸€ä¸ªå€¼å¾—ç ”ç©¶çš„è¯¾é¢˜ï¼›åŒæ—¶ï¼Œéšç€äººä»¬å¯¹æ•°æ®è¶Šæ¥è¶Šé‡è§†ï¼Œæ•°æ®å¯è§†åŒ–ä¹Ÿè¶Šæ¥è¶Šå—äººå…³æ³¨ã€‚æœ¬æ¬¡æ”¶é›†çš„èµ„æ–™ä¸»è¦æ˜¯æœŸåˆŠï¼Œä»¥ä¹‹ç›¸å¯¹çš„æ˜¯ä¼šè®®å¹¶æ²¡æœ‰æ”¶é›†ã€‚ä½†åœ¨æ”¶é›†çš„è¿‡ç¨‹ä¸­ä¹Ÿå¯ä»¥çœ‹åˆ°è®ºæ–‡çš„å‡ºå¤„ç»å¯¹ä¼šæ¯”æœŸåˆŠè¦å¤šå¾—å¤šã€‚æ¯”å¦‚IEEE Visè¿™ç±»é¡¶çº§ä¼šè®®ï¼Œä»–ä»¬çš„è®ºæ–‡æ˜¯ç›´æ¥å’ŒæœŸåˆŠå¯¹æ¥çš„ã€‚
 
-&emsp;&emsp;±¾´ÎÊÕ¼¯µÄÆÚ¿¯·ÖÎª3¸öÀà±ğ£¬¼´¶¥¼¶ÆÚ¿¯¡¢Ïà¹ØÆÚ¿¯¡¢Ä¿±êÆÚ¿¯Èı¸öÀà±ğ£»·Ö±ğÓÃ×ÏÉ«¡¢³ÈÉ«¡¢ÂÌÉ«±íÊ¾¡£¶¥¼¶ÆÚ¿¯ÊÇÑöÍûÆÚ¿¯£¬ÈÃÎÒÃÇ¸ĞÊÜÒ»ÏÂ¿ÉÊÓ»¯ÁìÓòµÄ´óÅ£ÎÄÕÂÈ¥´¦£»Ïà¹ØÆÚ¿¯ºÍÄ¿±êÆÚ¿¯µÄÑ¡ÔñÊÇ³ıÁËÄÚÈİÏà¹Ø£¬»¹°üÀ¨ÁË²Î¿¼ÆÚ¿¯µÄÆ½¾ùÉó¸åÊ±¼ä¡£±£Áôµ½µÄÏà¹ØÆÚ¿¯µÄÉó¸åÊ±¼ä»¹ÊÇÏà¶Ô±È½Ï¶ÌµÄ¡£¶øÄ¿±êÆÚ¿¯Ö»ÕÒµ½ÁËÒ»¸ö¡£
+&emsp;&emsp;æœ¬æ¬¡æ”¶é›†çš„æœŸåˆŠåˆ†ä¸º3ä¸ªç±»åˆ«ï¼Œå³é¡¶çº§æœŸåˆŠã€ç›¸å…³æœŸåˆŠã€ç›®æ ‡æœŸåˆŠä¸‰ä¸ªç±»åˆ«ï¼›åˆ†åˆ«ç”¨ç´«è‰²ã€æ©™è‰²ã€ç»¿è‰²è¡¨ç¤ºã€‚é¡¶çº§æœŸåˆŠæ˜¯ä»°æœ›æœŸåˆŠï¼Œè®©æˆ‘ä»¬æ„Ÿå—ä¸€ä¸‹å¯è§†åŒ–é¢†åŸŸçš„å¤§ç‰›æ–‡ç« å»å¤„ï¼›ç›¸å…³æœŸåˆŠå’Œç›®æ ‡æœŸåˆŠçš„é€‰æ‹©æ˜¯é™¤äº†å†…å®¹ç›¸å…³ï¼Œè¿˜åŒ…æ‹¬äº†å‚è€ƒæœŸåˆŠçš„å¹³å‡å®¡ç¨¿æ—¶é—´ã€‚ä¿ç•™åˆ°çš„ç›¸å…³æœŸåˆŠçš„å®¡ç¨¿æ—¶é—´è¿˜æ˜¯ç›¸å¯¹æ¯”è¾ƒçŸ­çš„ã€‚è€Œç›®æ ‡æœŸåˆŠåªæ‰¾åˆ°äº†ä¸€ä¸ªã€‚
 
-##¶¥¼¶ÆÚ¿¯
-&emsp;&emsp;¼ÈÈ»¿ÉÊÓ»¯£¨Visualization£©ÊÇ´Ó¼ÆËã»úÍ¼ĞÎÑ§¡¢ÈË»ú½»»¥ÑÓÉìµÄÑĞ¾¿·½Ïò£¬ÎÒÃÇÏÈ¿´¿´Õâ¸öÁìÓòµÄ¶¥¼¶ÆÚ¿¯
+###é¡¶çº§æœŸåˆŠ
+&emsp;&emsp;æ—¢ç„¶å¯è§†åŒ–ï¼ˆVisualizationï¼‰æ˜¯ä»è®¡ç®—æœºå›¾å½¢å­¦ã€äººæœºäº¤äº’å»¶ä¼¸çš„ç ”ç©¶æ–¹å‘ï¼Œæˆ‘ä»¬å…ˆçœ‹çœ‹è¿™ä¸ªé¢†åŸŸçš„é¡¶çº§æœŸåˆŠ
 
 - [IEEE Transactions on Visualization and Computer Graphics](#link1)
 - [Computer Graphics Forum](#link4)
@@ -15,10 +15,10 @@
 - [ACM Transaction on Computer-Human Interaction](#link5)
 - [International Journal of Human-computer in Interaction](#link3)
 
-&emsp;&emsp;¶Ô´ó¶àÊıºÃµÄ¿ÉÊÓ»¯µÄÂÛÎÄ¶¼·¢±íÔÚIEEETransactions on Visualization and Computer GraphicsºÍComputer Graphic ForumÕâÁ½¸öÆÚ¿¯ÉÏÃæ¡£µ±È»ÕâĞ©ÆÚ¿¯²¢²»ÊÇÎÒÃÇ¿ÉÒÔÍ¶µÄ£¬Ã»ÓĞ³¤ÆÚµÄÑĞ¾¿¸ù±¾¶¼²»¿ÉÄÜÒÔÔìÂÛÎÄµÄ·½Ê½Í¶ÖĞ¡£µ«ÊÇÒòÎªÉÏÃæµÄÂÛÎÄÊÇ×ã¹»ÓÅĞãµÄ£¬ËùÒÔ¾ø¶ÔÊÇÂÛÎÄ²Î¿¼µÄºÃÈ¥´¦¡£
+&emsp;&emsp;å¯¹å¤§å¤šæ•°å¥½çš„å¯è§†åŒ–çš„è®ºæ–‡éƒ½å‘è¡¨åœ¨IEEETransactions on Visualization and Computer Graphicså’ŒComputer Graphic Forumè¿™ä¸¤ä¸ªæœŸåˆŠä¸Šé¢ã€‚å½“ç„¶è¿™äº›æœŸåˆŠå¹¶ä¸æ˜¯æˆ‘ä»¬å¯ä»¥æŠ•çš„ï¼Œæ²¡æœ‰é•¿æœŸçš„ç ”ç©¶æ ¹æœ¬éƒ½ä¸å¯èƒ½ä»¥é€ è®ºæ–‡çš„æ–¹å¼æŠ•ä¸­ã€‚ä½†æ˜¯å› ä¸ºä¸Šé¢çš„è®ºæ–‡æ˜¯è¶³å¤Ÿä¼˜ç§€çš„ï¼Œæ‰€ä»¥ç»å¯¹æ˜¯è®ºæ–‡å‚è€ƒçš„å¥½å»å¤„ã€‚
 
-##Ïà¹ØÆÚ¿¯
-Ïà¹ØÆÚ¿¯£¬ÁĞ±íÈçÏÂ£º
+###ç›¸å…³æœŸåˆŠ
+ç›¸å…³æœŸåˆŠï¼Œåˆ—è¡¨å¦‚ä¸‹ï¼š
 
 - [Computers & Graphics-UK](#link7)
 - [Computer JOURNAL](#link8)
@@ -30,99 +30,98 @@
 - [Journal of Universal Computer Science](#link14)
 - [Graphical Models](#link15)
 - [Journal of Web Engineering](#link16)
-- #[Multimedia Tools and Applications](#link17)
+- [Multimedia Tools and Applications](#link17)
 
-&emsp;&emsp;ÕâÀïÕÒµ½µÄÏà¹ØÆÚ¿¯ÓĞ¼ÆËã»úÍ¼ĞÎÑ§¡¢ÉÌÒµÏµÍ³£¨¿¼ÂÇµ½»ªÎªµÄÏîÄ¿£©¡¢¶àÃ½Ìå¼¼ÊõµÈ±È½Ï·ºµÄÆÚ¿¯¡£ÎÒ¸Ğ¾õÔÚÕâĞ©ÆÚ¿¯¿ÉÊÓ»¯Ö»ÄÜÊÇ×îÖÕÊµÏÖµÄÏµÍ³»òÕß³É¹¦µÄÕ¹Ê¾ÊÖ¶Î£¬²»ÄÜ×÷ÎªÂÛÎÄµÄÖ÷ÌåÄÚÈİ£¬¼´ÎÒÃÇ³ıÁË·ÖÎö×îºóµÄ¿ÉÊÓ»¯Õ¹Ê¾£¬»¹ÒªÓĞ±ÈÈçÊı¾İ¶îÍÚ¾ò¡¢Ëã·¨µÈ²Å»áÈÃÕû¸öÎÄÕÂÊÊÓÃµÄÑĞ¾¿·¶Î§¸ü¼ÓµÄ¹ã¡£±ÈÈçÆäÖĞµÄÒ»¸öÆÚ¿¯Computers & GeosciencesÊÇ¼ÆËã»úºÍµØÇò¿ÆÑ§ÈÚºÏµÄÔÓÖ¾£¬½«¿ÉÊÓ»¯µÄ¼¼ÊõÓ¦ÓÃµ½ÆäËûµÄÑ§¿Æ£¬¼ÆËã»ú·ÖÎö¡¢¿ÉÊÓ»¯Ö»ÊÇÊÖ¶Î£¬ÕâÈÃÕû¸öÂÛÎÄµÄ¹ÊÊÂ²»¾ÖÏŞÓÚ¼ÆËã»úÁìÓò¡£µ«ÊÇ£¬µ½µ×Ñ¡ÔñÄÄ¸öÑ§¿ÆÈ¥½»²æ£¬ÕâÊÇ¸öÎÊÌâ¡£
+&emsp;&emsp;è¿™é‡Œæ‰¾åˆ°çš„ç›¸å…³æœŸåˆŠæœ‰è®¡ç®—æœºå›¾å½¢å­¦ã€å•†ä¸šç³»ç»Ÿï¼ˆè€ƒè™‘åˆ°åä¸ºçš„é¡¹ç›®ï¼‰ã€å¤šåª’ä½“æŠ€æœ¯ç­‰æ¯”è¾ƒæ³›çš„æœŸåˆŠã€‚æˆ‘æ„Ÿè§‰åœ¨è¿™äº›æœŸåˆŠå¯è§†åŒ–åªèƒ½æ˜¯æœ€ç»ˆå®ç°çš„ç³»ç»Ÿæˆ–è€…æˆåŠŸçš„å±•ç¤ºæ‰‹æ®µï¼Œä¸èƒ½ä½œä¸ºè®ºæ–‡çš„ä¸»ä½“å†…å®¹ï¼Œå³æˆ‘ä»¬é™¤äº†åˆ†ææœ€åçš„å¯è§†åŒ–å±•ç¤ºï¼Œè¿˜è¦æœ‰æ¯”å¦‚æ•°æ®é¢æŒ–æ˜ã€ç®—æ³•ç­‰æ‰ä¼šè®©æ•´ä¸ªæ–‡ç« é€‚ç”¨çš„ç ”ç©¶èŒƒå›´æ›´åŠ çš„å¹¿ã€‚æ¯”å¦‚å…¶ä¸­çš„ä¸€ä¸ªæœŸåˆŠComputers & Geosciencesæ˜¯è®¡ç®—æœºå’Œåœ°çƒç§‘å­¦èåˆçš„æ‚å¿—ï¼Œå°†å¯è§†åŒ–çš„æŠ€æœ¯åº”ç”¨åˆ°å…¶ä»–çš„å­¦ç§‘ï¼Œè®¡ç®—æœºåˆ†æã€å¯è§†åŒ–åªæ˜¯æ‰‹æ®µï¼Œè¿™è®©æ•´ä¸ªè®ºæ–‡çš„æ•…äº‹ä¸å±€é™äºè®¡ç®—æœºé¢†åŸŸã€‚ä½†æ˜¯ï¼Œåˆ°åº•é€‰æ‹©å“ªä¸ªå­¦ç§‘å»äº¤å‰ï¼Œè¿™æ˜¯ä¸ªé—®é¢˜ã€‚
 
-##Ä¿±êÆÚ¿¯
-&emsp;&emsp;Ä¿±êÆÚ¿¯£¬ÕâÀïÕÒµ½ÁËVisual ComputerÕâ¸öÆÚ¿¯£¬Õâ¸öÊÇÍ¼ĞÎºÍÈË»ú½»»¥¡¢¿ÆÑ§¿ÉÊÓ»¯·½ÃæµÄÆÚ¿¯¡£Éó¸åÊ±¼ä±È½Ï¿ì£¬Ò»°ãÈı¸öÔÂ×óÓÒ£¬Â¼ÓÃÒ²±È½ÏÈİÒ×¡£ÕæÊµ±ÏÒµÊ×Ñ¡¡£Ë¥¡£¡£¡£
+###ç›®æ ‡æœŸåˆŠ
+&emsp;&emsp;ç›®æ ‡æœŸåˆŠï¼Œè¿™é‡Œæ‰¾åˆ°äº†Visual Computerè¿™ä¸ªæœŸåˆŠï¼Œè¿™ä¸ªæ˜¯å›¾å½¢å’Œäººæœºäº¤äº’ã€ç§‘å­¦å¯è§†åŒ–æ–¹é¢çš„æœŸåˆŠã€‚å®¡ç¨¿æ—¶é—´æ¯”è¾ƒå¿«ï¼Œä¸€èˆ¬ä¸‰ä¸ªæœˆå·¦å³ï¼Œå½•ç”¨ä¹Ÿæ¯”è¾ƒå®¹æ˜“ã€‚çœŸå®æ¯•ä¸šé¦–é€‰ã€‚è¡°ã€‚ã€‚ã€‚
 
 - [Visual Computer](#link18)
 
-## ¿ÉÊÓ»¯ÊµÑéÊÒ(Visualization Group)
-&emsp;&emsp;¶ø³ıÁËÕÒÆÚ¿¯£¬×î½üÔÚÑ§Ï°Havard CS171 Visualization¿Î³Ì£¬´ÓÖĞ¿´µ½ÁËHavardµÄVisualization Group£¬ÕâÈÃÎÒÃÈÉúÁËÈ¥ÍÚ¾òÔÚ¿ÉÊÓ»¯Õâ¸öÁìÓòÓĞÄÄĞ©ÊµÑéÊÒ¡£ÏÂÃæÁĞ¾Ù¼¸¸ö£º
-### [Harvard Viusal Computing Group](http://vcg.seas.harvard.edu/)
-&emsp;&emsp;¸ÃgroupÉæ¼°¿ÉÊÓ»¯£¨visualization£©£¬¼ÆËã»úÍ¼ĞÎÑ§£¨computer graphics£©£¬¼ÆËã»úÊÓ¾õ£¨computer vision£©£¬Õâ¸ögroup½«¿ÉÊÓ»¯»ò¼ÆËã»úÍ¼ĞÎÑ§Ó¦ÓÃÔÚÉúÎï¿ÆÑ§¡¢Ò½Ñ§ÁìÓò£¬ÔÚÕâ¸ö·½Ïò·¢ÁËºÃ¶àÎÄÕÂ
-### [Stanford & University of Washington Interactive Data Lab](http://vis.stanford.edu/ )
-&emsp;&emsp;D3×÷ÕßËùÔÚµÄÊµÑéÊÒ£¡³¤ÆÚµÄÂÛÎÄ¶¼»áÔÚ¿ÉÊÓ»¯»òÕßÍ¼ĞÎÑ§µÄ¶¥¼¶ÆÚ¿¯·¢±í£»Ïà¶ÔÀ´Ëµ£¬»áÒéµÄÂÛÎÄ»á±È½Ï¶àÒ»Ğ©
-### [HongKong University HKUST Vis Lab](http://vis.cse.ust.hk/)
-&emsp;&emsp;Í¬ÆäËûÀ÷º¦µÄÊµÑéÊÒÒ»Ñù£¬ÔçÆÚÔÚ¼ÆËã»úÍ¼ĞÎÑ§ÉÏ½øĞĞÑĞ¾¿£¬¶ø½üÆÚÆ«ÖØÊı¾İ¿ÉÊÓ»¯
-### [Peking University PKU Visualization and Visual Analytics Group](http://vis.pku.edu.cn/)
-&emsp;&emsp;±±¾©´óÑ§¿ÉÊÓ»¯ÊµÑéÊÒ£¬Ó¦¸ÃÊÇ¹úÄÚ×öµÃ×îºÃµÄ¿ÉÊÓ»¯ÊµÑéÊÒ¡£ÆäÒ»Ğ©±¾ÍÁ»¯µÄÑĞ¾¿ÏîÄ¿ÊÇÈëÃÅ¿ÉÊÓ»¯µÄÊ×Ñ¡
+### å¯è§†åŒ–å®éªŒå®¤(Visualization Group)
+&emsp;&emsp;è€Œé™¤äº†æ‰¾æœŸåˆŠï¼Œæœ€è¿‘åœ¨å­¦ä¹ Havard CS171 Visualizationè¯¾ç¨‹ï¼Œä»ä¸­çœ‹åˆ°äº†Havardçš„Visualization Groupï¼Œè¿™è®©æˆ‘èŒç”Ÿäº†å»æŒ–æ˜åœ¨å¯è§†åŒ–è¿™ä¸ªé¢†åŸŸæœ‰å“ªäº›å®éªŒå®¤ã€‚ä¸‹é¢åˆ—ä¸¾å‡ ä¸ªï¼š
+#### [Harvard Viusal Computing Group](http://vcg.seas.harvard.edu/)
+&emsp;&emsp;è¯¥groupæ¶‰åŠå¯è§†åŒ–ï¼ˆvisualizationï¼‰ï¼Œè®¡ç®—æœºå›¾å½¢å­¦ï¼ˆcomputer graphicsï¼‰ï¼Œè®¡ç®—æœºè§†è§‰ï¼ˆcomputer visionï¼‰ï¼Œè¿™ä¸ªgroupå°†å¯è§†åŒ–æˆ–è®¡ç®—æœºå›¾å½¢å­¦åº”ç”¨åœ¨ç”Ÿç‰©ç§‘å­¦ã€åŒ»å­¦é¢†åŸŸï¼Œåœ¨è¿™ä¸ªæ–¹å‘å‘äº†å¥½å¤šæ–‡ç« 
+#### [Stanford & University of Washington Interactive Data Lab](http://vis.stanford.edu/ )
+&emsp;&emsp;D3ä½œè€…æ‰€åœ¨çš„å®éªŒå®¤ï¼é•¿æœŸçš„è®ºæ–‡éƒ½ä¼šåœ¨å¯è§†åŒ–æˆ–è€…å›¾å½¢å­¦çš„é¡¶çº§æœŸåˆŠå‘è¡¨ï¼›ç›¸å¯¹æ¥è¯´ï¼Œä¼šè®®çš„è®ºæ–‡ä¼šæ¯”è¾ƒå¤šä¸€äº›
+#### [HongKong University HKUST Vis Lab](http://vis.cse.ust.hk/)
+&emsp;&emsp;åŒå…¶ä»–å‰å®³çš„å®éªŒå®¤ä¸€æ ·ï¼Œæ—©æœŸåœ¨è®¡ç®—æœºå›¾å½¢å­¦ä¸Šè¿›è¡Œç ”ç©¶ï¼Œè€Œè¿‘æœŸåé‡æ•°æ®å¯è§†åŒ–
+#### [Peking University PKU Visualization and Visual Analytics Group](http://vis.pku.edu.cn/)
+&emsp;&emsp;åŒ—äº¬å¤§å­¦å¯è§†åŒ–å®éªŒå®¤ï¼Œåº”è¯¥æ˜¯å›½å†…åšå¾—æœ€å¥½çš„å¯è§†åŒ–å®éªŒå®¤ã€‚å…¶ä¸€äº›æœ¬åœŸåŒ–çš„ç ”ç©¶é¡¹ç›®æ˜¯å…¥é—¨å¯è§†åŒ–çš„é¦–é€‰
 
-##×îºó×Ü½á
+###æœ€åæ€»ç»“
 
-###Êı¾İ¿ÉÊÓ»¯ Visualization Definition
-```
-Visualization is the process that transform (abstract) data into interactive graphical representations for the purpose of exploration, confirmation, or presentation.
-```
-Êı¾İ¿ÉÊÓ»¯ÈÃÎÒÃÇÍ¨¹ı·á¸»µÄÍ¼ĞÎ·½Ê½À´¸üºÃµÄ½»Á÷¡¢È·¶¨Êı¾İ¼äµÄ¹ØÏµ²¢Ì½Ë÷Êı¾İ¼ä´æÔÚµÄ¸ü¶àÃØÃÜ£¡
+####æ•°æ®å¯è§†åŒ– Visualization Definition
+**Visualization is the process that transform (abstract) data into interactive graphical representations for the purpose of exploration, confirmation, or presentation.**
 
-##²Î¿¼
-###[](#link1)[IEEE Transactions on Visualization and Computer Graphics](http://emuch.net/bbs/journal.php?view=detail&jid=3442)
-µãÆÀ£ºTVCGÊÇ¿ÉÊÓ»¯ÁìÓòµÄNo.1ÆÚ¿¯¡£ÑØÏ®Í¼ĞÎÑ§µÄ´«Í³£¬Ã¿ÄêÕÙ¿ªµÄIEEE VisWeekµÄ¼¸¸öÏà¹Ø»áÒé£¨Vis£¬InfoVis£¬VAST£©µÄÂÛÎÄ±»Ö±½ÓÊÕÂ¼½øÈëTVCG£¬¶øÕâ¼¸¸ö»áÒéµÄÃüÖĞÂÊ»ù±¾ÔÚ20%¡«30%Ö®¼ä<br/>
-¹úÄÚÄ¿Ç°£¨2011Äê£©×ö¿ÉÊÓ»¯·½Ïò£¬ÌØ±ğÊÇĞÅÏ¢¿ÉÊÓ»¯µÄ×é²»ÊÇºÜ¶à£¬ÄÜÖĞTVCGµÄÒ²ËãÊÇÇüÖ¸¿ÉÊı¡£²»¹ıÕâ¸ö·½ÏòÓĞÇ÷ÓÚÈÈÃÅµÄ×ßÊÆ¡£ 
+æ•°æ®å¯è§†åŒ–è®©æˆ‘ä»¬é€šè¿‡ä¸°å¯Œçš„å›¾å½¢æ–¹å¼æ¥æ›´å¥½çš„äº¤æµã€ç¡®å®šæ•°æ®é—´çš„å…³ç³»å¹¶æ¢ç´¢æ•°æ®é—´å­˜åœ¨çš„æ›´å¤šç§˜å¯†ï¼
 
-###[](#link2)[International Journal of Human-Computer Studies](http://emuch.net/bbs/journal.php?view=detail&jid=3784 )
-µãÆÀ£ººÜºÃµÄÈË»ú½»»¥µÄÔÓÖ¾£¬Éó¸åÆÚ3¸öÔÂ×óÓÒ CCFÍÆ¼öÈË»ú½»»¥AÀà£¡
+###å‚è€ƒ
+####[](#link1)[IEEE Transactions on Visualization and Computer Graphics](http://emuch.net/bbs/journal.php?view=detail&jid=3442)
+ç‚¹è¯„ï¼šTVCGæ˜¯å¯è§†åŒ–é¢†åŸŸçš„No.1æœŸåˆŠã€‚æ²¿è¢­å›¾å½¢å­¦çš„ä¼ ç»Ÿï¼Œæ¯å¹´å¬å¼€çš„IEEE VisWeekçš„å‡ ä¸ªç›¸å…³ä¼šè®®ï¼ˆVisï¼ŒInfoVisï¼ŒVASTï¼‰çš„è®ºæ–‡è¢«ç›´æ¥æ”¶å½•è¿›å…¥TVCGï¼Œè€Œè¿™å‡ ä¸ªä¼šè®®çš„å‘½ä¸­ç‡åŸºæœ¬åœ¨20%ï½30%ä¹‹é—´<br/>
+å›½å†…ç›®å‰ï¼ˆ2011å¹´ï¼‰åšå¯è§†åŒ–æ–¹å‘ï¼Œç‰¹åˆ«æ˜¯ä¿¡æ¯å¯è§†åŒ–çš„ç»„ä¸æ˜¯å¾ˆå¤šï¼Œèƒ½ä¸­TVCGçš„ä¹Ÿç®—æ˜¯å±ˆæŒ‡å¯æ•°ã€‚ä¸è¿‡è¿™ä¸ªæ–¹å‘æœ‰è¶‹äºçƒ­é—¨çš„èµ°åŠ¿ã€‚ 
 
-###[](#link3)[International Journal of Human-computer in Interaction](http://emuch.net/bbs/journal.php?view=detail&jid=3783)
-µãÆÀ£º¼¾¿¯ ÈË»ú½»»¥ÁìÓò´óÅ£¾Û¼¯µØ
+####[](#link2)[International Journal of Human-Computer Studies](http://emuch.net/bbs/journal.php?view=detail&jid=3784 )
+ç‚¹è¯„ï¼šå¾ˆå¥½çš„äººæœºäº¤äº’çš„æ‚å¿—ï¼Œå®¡ç¨¿æœŸ3ä¸ªæœˆå·¦å³ CCFæ¨èäººæœºäº¤äº’Aç±»ï¼
 
-###[](#link4)[Computer Graphics Forum](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8659 )
-µãÆÀ£º(CCF BÀà) Óë¿ÉÊÓ»¯Èı´ó»áÒé¶Ô½ÓµÄÆÚ¿¯£¬Í¶¸åÄÑ¶ÈºÜ¸ß
+####[](#link3)[International Journal of Human-computer in Interaction](http://emuch.net/bbs/journal.php?view=detail&jid=3783)
+ç‚¹è¯„ï¼šå­£åˆŠ äººæœºäº¤äº’é¢†åŸŸå¤§ç‰›èšé›†åœ°
 
-###[](#link5)[ACM Transaction on Computer-Human Interaction](http://tochi.acm.org/general/)
+####[](#link4)[Computer Graphics Forum](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8659 )
+ç‚¹è¯„ï¼š(CCF Bç±») ä¸å¯è§†åŒ–ä¸‰å¤§ä¼šè®®å¯¹æ¥çš„æœŸåˆŠï¼ŒæŠ•ç¨¿éš¾åº¦å¾ˆé«˜
 
-###[](#link6)[ACM Transaction on Graphics](http://emuch.net/bbs/journal.php?view=detail&jid=32)
+####[](#link5)[ACM Transaction on Computer-Human Interaction](http://tochi.acm.org/general/)
+
+####[](#link6)[ACM Transaction on Graphics](http://emuch.net/bbs/journal.php?view=detail&jid=32)
 
 ---------------------------------------
 
-###[](#link7)[Computers & Graphics-UK](http://emuch.net/bbs/journal.php?view=detail&jid=2019)
+####[](#link7)[Computers & Graphics-UK](http://emuch.net/bbs/journal.php?view=detail&jid=2019)
 
-µãÆÀ£º9ÔÂµ×Í¶¸å£¬10ÔÂÖĞÑ®ËÍÉó£¬12ÔÂ³õ´óĞŞ£¬2ÔÂÖĞÑ®Ğ¡ĞŞºóÂ¼ÓÃ¡£Éó¸åËÙ¶ÈºÍ±à¼­´¦ÀíËÙ¶È¶¼±È½Ï¿ì£¡<br/>
-Ö÷ÒªÊÇ¼ÆËã»úÍ¼ĞÎÑ§µÄÔÓÖ¾£¬µ«ÊÇÒ²¿ÉÒÔ½£×ßÆ«·æ£¬Í¶¿ÉÊÓ»¯µÄÄÚÈİ¡£ĞéÄâÏÖÊµµÄÑĞ¾¿¿ÉÄÜ»á±È½ÏºÃÖĞ<br/>
+ç‚¹è¯„ï¼š9æœˆåº•æŠ•ç¨¿ï¼Œ10æœˆä¸­æ—¬é€å®¡ï¼Œ12æœˆåˆå¤§ä¿®ï¼Œ2æœˆä¸­æ—¬å°ä¿®åå½•ç”¨ã€‚å®¡ç¨¿é€Ÿåº¦å’Œç¼–è¾‘å¤„ç†é€Ÿåº¦éƒ½æ¯”è¾ƒå¿«ï¼<br/>
+ä¸»è¦æ˜¯è®¡ç®—æœºå›¾å½¢å­¦çš„æ‚å¿—ï¼Œä½†æ˜¯ä¹Ÿå¯ä»¥å‰‘èµ°åé”‹ï¼ŒæŠ•å¯è§†åŒ–çš„å†…å®¹ã€‚è™šæ‹Ÿç°å®çš„ç ”ç©¶å¯èƒ½ä¼šæ¯”è¾ƒå¥½ä¸­<br/>
 Computers & Graphics provides a medium to communicate information concerning interactive CG and CG applications. The journal focuses on interactive computer graphics, visualization and novel input modalities including virtual environments, and, within this scope, on graphical models, data structures, languages, picture manipulation algorithms and related software.
 
-###[](#link8)[Computer JOURNAL](http://emuch.net/bbs/journal.php?view=detail&jid=1997)
+####[](#link8)[Computer JOURNAL](http://emuch.net/bbs/journal.php?view=detail&jid=1997)
 
-µãÆÀ£º×ÛºÏÆÀ¼ÛºÜ²»´í£¬special issue»á±È½Ï¿ì¡£µ«¶ÔÓ¢ÎÄµÄÒªÇóºÜ¸ß<br/>
-·ÖÎª4¸öÁìÓò£º<br/>
+ç‚¹è¯„ï¼šç»¼åˆè¯„ä»·å¾ˆä¸é”™ï¼Œspecial issueä¼šæ¯”è¾ƒå¿«ã€‚ä½†å¯¹è‹±æ–‡çš„è¦æ±‚å¾ˆé«˜<br/>
+åˆ†ä¸º4ä¸ªé¢†åŸŸï¼š<br/>
 
 - Computer Science Theory, Methods and Tools
 - Computer and Communications Networks and Systems
 - Computational Intelligence, Machine Learning and Data Analytics
 - Security in Computer Systems and Networks
 
-###[](#link9)[Business & Information Systems Engineering](http://www.springer.com/business+%26+management/business+information+systems/journal/12599)
-µãÆÀ£ºµÂÎÄÆÚ¿¯µÄÓ¢ÎÄ°æ<br/>
-ÉÌÒµÓëĞÅÏ¢ÏµÍ³ »òĞíÓĞÃ»ÓĞ»ú»á½«Óë»ªÎª×öµÄ¿ÉÊÓ»¯µÄÏµÍ³Ïë·¨Ğ´Ò»ÏÂ£¬±Ï¾¹Éó¸åÆÚºÜ¶Ì£¬3¸öÔÂ
+####[](#link9)[Business & Information Systems Engineering](http://www.springer.com/business+%26+management/business+information+systems/journal/12599)
+ç‚¹è¯„ï¼šå¾·æ–‡æœŸåˆŠçš„è‹±æ–‡ç‰ˆ<br/>
+å•†ä¸šä¸ä¿¡æ¯ç³»ç»Ÿ æˆ–è®¸æœ‰æ²¡æœ‰æœºä¼šå°†ä¸åä¸ºåšçš„å¯è§†åŒ–çš„ç³»ç»Ÿæƒ³æ³•å†™ä¸€ä¸‹ï¼Œæ¯•ç«Ÿå®¡ç¨¿æœŸå¾ˆçŸ­ï¼Œ3ä¸ªæœˆ
 
-###[](#link10)[ACM Transactions on Multimedia Computing Communications and Applications](http://emuch.net/bbs/journal.php?view=detail&jid=38 )
-µãÆÀ£º¶àÃ½ÌåÁìÓòµÄÍ¨ĞÅºÍÓ¦ÓÃ£¬ÔÓÖ¾µÄ·¶Î§ºÜ¹ã£¬µ«ÊÇÓÉÓÚÊÇ¼¾¿¯£¬¿ÉÄÜ±È½ÏÂı
+####[](#link10)[ACM Transactions on Multimedia Computing Communications and Applications](http://emuch.net/bbs/journal.php?view=detail&jid=38 )
+ç‚¹è¯„ï¼šå¤šåª’ä½“é¢†åŸŸçš„é€šä¿¡å’Œåº”ç”¨ï¼Œæ‚å¿—çš„èŒƒå›´å¾ˆå¹¿ï¼Œä½†æ˜¯ç”±äºæ˜¯å­£åˆŠï¼Œå¯èƒ½æ¯”è¾ƒæ…¢
 
-###[](#link11)[Computers & Geosciences](http://emuch.net/bbs/journal.php?view=detail&jid=2018)
-µãÆÀ£º¼ÆËã»úÓëµØÇò¿ÆÑ§½»²æÑ§¿ÆÔÓÖ¾¡£Ó¦¸ÃÊÇÀûÓÃ¼ÆËã»ú¼¼ÊõÈ¥´¦ÀíµØÇò¿ÆÑ§Ïà¹ØµÄÎÊÌâ¡£Éó¸åÆÚ±È½Ï¶Ì£¬3¸öÔÂ¡£
+####[](#link11)[Computers & Geosciences](http://emuch.net/bbs/journal.php?view=detail&jid=2018)
+ç‚¹è¯„ï¼šè®¡ç®—æœºä¸åœ°çƒç§‘å­¦äº¤å‰å­¦ç§‘æ‚å¿—ã€‚åº”è¯¥æ˜¯åˆ©ç”¨è®¡ç®—æœºæŠ€æœ¯å»å¤„ç†åœ°çƒç§‘å­¦ç›¸å…³çš„é—®é¢˜ã€‚å®¡ç¨¿æœŸæ¯”è¾ƒçŸ­ï¼Œ3ä¸ªæœˆã€‚
 
-###[](#link12)[Journal of Visual Languages and Computing](http://emuch.net/bbs/journal.php?view=detail&jid=5465)
-µãÆÀ£ºĞÅÏ¢²»¶à£¬µ«ÊÇÍ¬Êô¿ÉÊÓ»¯·½ÃæµÄ·¶Î§
+####[](#link12)[Journal of Visual Languages and Computing](http://emuch.net/bbs/journal.php?view=detail&jid=5465)
+ç‚¹è¯„ï¼šä¿¡æ¯ä¸å¤šï¼Œä½†æ˜¯åŒå±å¯è§†åŒ–æ–¹é¢çš„èŒƒå›´
 
-###[](#link13)[The International Arab Journal of Information Technology](http://emuch.net/bbs/journal.php?view=detail&jid=3641 )
-µãÆÀ£º°¢À­²®µÄĞÅÏ¢¼¼ÊõÔÓÖ¾£¬Éæ¼°µÄÁìÓò¹ãµ½²»ĞĞ£¬µ«ÊÇÊÇ¼¾¿¯£¬Ã¿¼¾´ó¸Å13ÆªÎÄÕÂ£¬Éó¸åÆÚ4¸öÔÂ×óÓÒ
+####[](#link13)[The International Arab Journal of Information Technology](http://emuch.net/bbs/journal.php?view=detail&jid=3641 )
+ç‚¹è¯„ï¼šé˜¿æ‹‰ä¼¯çš„ä¿¡æ¯æŠ€æœ¯æ‚å¿—ï¼Œæ¶‰åŠçš„é¢†åŸŸå¹¿åˆ°ä¸è¡Œï¼Œä½†æ˜¯æ˜¯å­£åˆŠï¼Œæ¯å­£å¤§æ¦‚13ç¯‡æ–‡ç« ï¼Œå®¡ç¨¿æœŸ4ä¸ªæœˆå·¦å³
 
-###[](#link14)[Journal of Universal Computer Science](http://emuch.net/bbs/journal.php?view=detail&jid=5431)
-µãÆÀ£ººÜ·ºµÄÒ»¸öÔÓÖ¾£¬ĞÅÏ¢²»¶à£¬ÔÂ¿¯ÔÓÖ¾£¬¿ÉÒÔÔÙÏêÏ¸È¥ÁË½â
+####[](#link14)[Journal of Universal Computer Science](http://emuch.net/bbs/journal.php?view=detail&jid=5431)
+ç‚¹è¯„ï¼šå¾ˆæ³›çš„ä¸€ä¸ªæ‚å¿—ï¼Œä¿¡æ¯ä¸å¤šï¼ŒæœˆåˆŠæ‚å¿—ï¼Œå¯ä»¥å†è¯¦ç»†å»äº†è§£
 
-###[](#link15)[Graphical Models](http://emuch.net/bbs/journal.php?view=detail&jid=3139 )
-µãÆÀ£º£¨CCF BÀà£©Éó¸åËÙ¶È±È½Ï¿ì£¬µ«ÒòÎªÆ«ÖØÓÚÍ¼ĞÎÑ§£¬ËùÒÔ¿ÉÊÓ»¯µÄÂÛÎÄËãÊÇ²Á±ß
+####[](#link15)[Graphical Models](http://emuch.net/bbs/journal.php?view=detail&jid=3139 )
+ç‚¹è¯„ï¼šï¼ˆCCF Bç±»ï¼‰å®¡ç¨¿é€Ÿåº¦æ¯”è¾ƒå¿«ï¼Œä½†å› ä¸ºåé‡äºå›¾å½¢å­¦ï¼Œæ‰€ä»¥å¯è§†åŒ–çš„è®ºæ–‡ç®—æ˜¯æ“¦è¾¹
 
-###[](#link16)[Journal of Web Engineering](http://www.letpub.com.cn/index.php?journalid=5448&page=journalapp&view=detail )
-µãÆÀ£º¼¾¿¯£¬ËÙ¶È²»Ëã¿ì£¬ÊôÓÚCCFÍÆ¼öµÄCÀàÆÚ¿¯£¬±È½ÏÈİÒ×
+####[](#link16)[Journal of Web Engineering](http://www.letpub.com.cn/index.php?journalid=5448&page=journalapp&view=detail )
+ç‚¹è¯„ï¼šå­£åˆŠï¼Œé€Ÿåº¦ä¸ç®—å¿«ï¼Œå±äºCCFæ¨èçš„Cç±»æœŸåˆŠï¼Œæ¯”è¾ƒå®¹æ˜“
 
-###[](#link17)[Multimedia Tools and Applications](http://emuch.net/bbs/journal.php?view=detail&jid=6040 )
-µãÆÀ£º¶àÃ½Ìå¹¤¾ßÓëÓ¦ÓÃ£¬¼¾¿¯£¬Éó¸åËÙ¶È²»¿ì£¬µ«special issuesÊÇ±È½Ï¿ìµÄ£¬CCFÍÆ¼öCÀàµÄÆÚ¿¯¡¢
+####[](#link17)[Multimedia Tools and Applications](http://emuch.net/bbs/journal.php?view=detail&jid=6040 )
+ç‚¹è¯„ï¼šå¤šåª’ä½“å·¥å…·ä¸åº”ç”¨ï¼Œå­£åˆŠï¼Œå®¡ç¨¿é€Ÿåº¦ä¸å¿«ï¼Œä½†special issuesæ˜¯æ¯”è¾ƒå¿«çš„ï¼ŒCCFæ¨èCç±»çš„æœŸåˆŠã€
 
 ---------------------------------------
 
-###[](#link18)[](#id1)[Visual Computer](http://emuch.net/bbs/journal.php?view=detail&jid=8110)
-µãÆÀ£ºÍ¼ĞÎºÍÈË»ú½»»¥¡¢¿ÆÑ§¿ÉÊÓ»¯·½ÃæµÄÆÚ¿¯¡£Éó¸åÊ±¼ä±È½Ï¿ì£¬Ò»°ãÈı¸öÔÂ×óÓÒ£¬Â¼ÓÃÒ²±È½ÏÈİÒ×
+####[](#link18)[](#id1)[Visual Computer](http://emuch.net/bbs/journal.php?view=detail&jid=8110)
+ç‚¹è¯„ï¼šå›¾å½¢å’Œäººæœºäº¤äº’ã€ç§‘å­¦å¯è§†åŒ–æ–¹é¢çš„æœŸåˆŠã€‚å®¡ç¨¿æ—¶é—´æ¯”è¾ƒå¿«ï¼Œä¸€èˆ¬ä¸‰ä¸ªæœˆå·¦å³ï¼Œå½•ç”¨ä¹Ÿæ¯”è¾ƒå®¹æ˜“
