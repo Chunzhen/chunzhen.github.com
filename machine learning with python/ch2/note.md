@@ -75,3 +75,5 @@ def datingClassTest():
      print errorCount
      print "the total accuracy is:%f" % (1-float(errorCount)/float(numTestVecs))
 ```
+
+2015-10-13 by Chunzhen
