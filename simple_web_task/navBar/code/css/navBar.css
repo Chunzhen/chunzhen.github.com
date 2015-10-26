@@ -1,0 +1,123 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0; }
+
+ul {
+  list-style: none; }
+
+html, body {
+  height: 100%;
+  min-height: 100%; }
+
+body {
+  font-family: "微软雅黑";
+  font-size: 12px; }
+
+.hidden {
+  visibility: hidden; }
+
+.content {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px; }
+
+a {
+  text-decoration: none;
+  color: #020202; }
+
+.navBar {
+  background: none repeat scroll 0 0 #fff;
+  border-top: 1px solid #e6e9f0;
+  border-bottom: 1px solid #e6e9f0;
+  height: 30px;
+  position: relative; }
+  .navBar .bar {
+    height: 31px;
+    line-height: 30px;
+    overflow: hidden;
+    position: relative; }
+    .navBar .bar a {
+      padding: 5px 10px;
+      background: url("../img/main-path.png") no-repeat scroll right -50px transparent;
+      color: #020202;
+      cursor: pointer;
+      float: left;
+      height: 100%;
+      margin-left: -19px;
+      padding: 0 18px 0 25px;
+      position: relative; }
+      .navBar .bar a:hover {
+        background-position: right -100px; }
+      .navBar .bar a:active {
+        background-position: right -150px; }
+      .navBar .bar a.current, .navBar .bar a.current:hover, .navBar .bar a.current:active {
+        background-position: right -200px;
+        cursor: default; }
+      .navBar .bar a.more {
+        color: #606672;
+        font-size: 24px;
+        height: 30px;
+        line-height: 30px;
+        opacity: 0.6;
+        vertical-align: middle; }
+      .navBar .bar a span {
+        display: inline-block;
+        line-height: 31px;
+        vertical-align: top;
+        max-width: 100px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis; }
+    .navBar .bar .test {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      left: 0;
+      top: 0;
+      z-index: 1000;
+      background: red; }
+  .navBar .content-menu {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #c8ccd5;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    position: absolute;
+    z-index: 10;
+    left: 0px;
+    top: 34px; }
+    .navBar .content-menu ul {
+      overflow-x: hidden;
+      overflow-y: auto; }
+      .navBar .content-menu ul li {
+        height: 32px;
+        overflow: hidden; }
+        .navBar .content-menu ul li a {
+          border-bottom: 1px solid #fff;
+          border-top: 1px solid #fff;
+          color: #3a404a;
+          display: block;
+          height: 20px;
+          overflow: hidden;
+          padding: 5px 0;
+          position: relative; }
+          .navBar .content-menu ul li a span {
+            display: block;
+            line-height: 20px;
+            overflow: hidden;
+            padding: 0 12px 0 32px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            word-wrap: normal; }
+          .navBar .content-menu ul li a .ico-folder {
+            left: 3px;
+            opacity: 0.7;
+            position: absolute;
+            top: 5px;
+            display: block;
+            height: 20px;
+            width: 20px;
+            background: url("../img/folder-tree.png") no-repeat scroll 3px 4px transparent; }
+
+/*# sourceMappingURL=navBar.css.map */
