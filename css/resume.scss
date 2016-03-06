@@ -3,7 +3,8 @@ $baseColor:#333;
 	font-size: 14px;
 }
 body{
-	font-family: 'Cambria,宋体';
+	font-family: 'arial,宋体';
+	font-size: 14px;
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;
@@ -14,7 +15,7 @@ ul,li{
 	padding:0;
 }
 header,section,.bigline,.smallline{
-	width:800px;
+	width:820px;
 	display: block;
 	margin:0 auto;
 }
@@ -65,23 +66,36 @@ section{
 		padding-left:20px;
 		li{
 			padding:3px 0;
+			font-size: 14px;
 		}
 		&.info-ul{
-			//font-size:16px;
+			li{
+				font-weight: bold;
+				font-style: italic;
+				font-size: 14px;
+			}
 		}
 		&.it{
 			list-style: circle;
+			li{
+				clear: both;
+			}
 			.label-it{
-				display:inline-block;
-				width:140px;
+				display:block;
+				width:130px;
+				float:left;
+				font-size: 14px;
 			}
 			.it-detail{
-				display:inline-block;
+				display:block;
+				float:left;
+				font-size: 14px;
 			}
 		}
 	}
 	h3{
 		margin:10px 0 5px 0;
+		font-weight: bold;
 	}
 	.pull-right{
 		float: right;

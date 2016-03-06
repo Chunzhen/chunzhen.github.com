@@ -1,13 +1,13 @@
 @charset "UTF-8";
 * { font-size: 14px; }
 
-body { font-family: 'Cambria,宋体'; }
+body { font-family: 'arial,宋体'; font-size: 14px; }
 
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 
 ul, li { margin: 0; padding: 0; }
 
-header, section, .bigline, .smallline { width: 800px; display: block; margin: 0 auto; }
+header, section, .bigline, .smallline { width: 820px; display: block; margin: 0 auto; }
 
 a { text-decoration: none; }
 
@@ -24,11 +24,13 @@ section h2 { font-size: 20px; margin: 10px 0; }
 section .info-table { border-collapse: collapse; width: 99%; margin: 0 auto; margin-bottom: 10px; }
 section .info-table td { border: 1px dashed #000; padding: 5px 10px; }
 section .base-ul { padding-left: 20px; }
-section .base-ul li { padding: 3px 0; }
+section .base-ul li { padding: 3px 0; font-size: 14px; }
+section .base-ul.info-ul li { font-weight: bold; font-style: italic; font-size: 14px; }
 section .base-ul.it { list-style: circle; }
-section .base-ul.it .label-it { display: inline-block; width: 140px; }
-section .base-ul.it .it-detail { display: inline-block; }
-section h3 { margin: 10px 0 5px 0; }
+section .base-ul.it li { clear: both; }
+section .base-ul.it .label-it { display: block; width: 130px; float: left; font-size: 14px; }
+section .base-ul.it .it-detail { display: block; float: left; font-size: 14px; }
+section h3 { margin: 10px 0 5px 0; font-weight: bold; }
 section .pull-right { float: right; font-weight: 600; }
 
 /*# sourceMappingURL=resume.css.map */
