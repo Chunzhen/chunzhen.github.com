@@ -32,5 +32,6 @@ section .base-ul.it .label-it { display: block; width: 130px; float: left; font-
 section .base-ul.it .it-detail { display: block; float: left; font-size: 14px; }
 section h3 { margin: 10px 0 5px 0; font-weight: bold; }
 section .pull-right { float: right; font-weight: 600; }
+section .title_link { font-size: 12px; color: #4078c0; font-size: 14px; }
 
 /*# sourceMappingURL=resume.css.map */
