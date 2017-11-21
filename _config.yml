@@ -1,0 +1,8 @@
+title: Chunzhen.GitHub.com
+description: My web page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
